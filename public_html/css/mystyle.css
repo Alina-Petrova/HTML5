@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 feb 2021, 11:29:57
+    Author     : tss
+*/
+.tblstd {
+   width: 90%;
+   font-size: 20px;
+   background-color: background;  
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-color: blueviolet;
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: collapse;
+}
+
+table {
+   border-width: 3px;
+   border-color: green;
+}
+
+.myfont {
+    
+    font-family: Arial;
+}
+
+#t1 {
+    color: white;
+    background-color: darkgreen;
+}
+
+#t2 {
+    color: darkgreen;
+    background-color: white;    
+}
+#td1 {
+    color: red;
+}
+#t2 td {
+    font-weight: bold;
+}
+
+.cbig {
+    width: 40%;
+}
+
+.csmall {
+    width: 20%;
+}
